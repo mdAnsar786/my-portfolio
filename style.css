@@ -1,0 +1,108 @@
+.first-part{
+    display: flex;
+    justify-content:space-between;
+    margin:30px;
+    /* border: 1px solid black; */
+    background-color: rgb(194, 219, 240);
+    padding-left: 150px;
+    padding-right: 150px;
+    /* margin-top: 10px; */
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.motify{
+    color: rgb(15, 71, 238);
+}
+.headPart{
+    background-color: rgb(101, 13, 75);
+    height:60px;
+    padding: auto;
+    margin:30px;
+    margin-bottom: 10px;
+    /* border: 1px solid black; */
+    font-size: 20px;
+
+}
+.profile{
+    border-radius: 50%;
+    background-color: bisque;
+}
+.Hire{
+    width: 100px;
+    height: 25px;
+   border-radius:10px ;
+    background-color:rgb(15, 71, 238);
+    color: rgb(241, 241, 250);
+}
+.designer{
+    text-align: center;
+}
+.color{
+    color: blue;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.icon-1{
+    width: 30px;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.icon-2{
+    width: 30px;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.icon-3{
+    width: 35px;
+    margin-right: 20px;
+ 
+}
+.icon-4{
+    width: 30px;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.icon-5{
+    width: 30px;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.icon-6{
+    width: 40px;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.footer-icon{
+    display: flex;
+}
+.footer-div{
+    border: 1px solid black;
+    margin: 30px;
+    padding: 30px;
+    background-color: rgb(101, 13, 75);
+    color: white;
+}
+.card-box{
+    /* border: 1px solid black; */
+    margin: 30px;
+    padding: 50px;
+    /* box-shadow: 10px 10px 10px 10px blue; */
+    background-color: rgb(194, 219, 240);
+    color: black;
+    font-size: 15px;
+    padding-top: 10px;
+    text-align: center;
+    /* margin-left: 10px; */
+}
+.service{
+    font-size: 15px;
+    /* text-align: center; */
+}
+.Tech{
+    border: 2px solid rgb(247, 247, 247) !important;
+    width: 250px;
+    background-color: rgb(194, 219, 240);
+    color:rgb(101, 13, 75);
+}
